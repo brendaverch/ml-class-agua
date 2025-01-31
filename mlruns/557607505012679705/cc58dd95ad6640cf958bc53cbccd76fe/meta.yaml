@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/FKA9/OneDrive - PETROBRAS/Área de Trabalho/MLP/ml-class-agua/mlruns/557607505012679705/cc58dd95ad6640cf958bc53cbccd76fe/artifacts
+end_time: 1738358765900
+entry_point_name: ''
+experiment_id: '557607505012679705'
+lifecycle_stage: active
+run_id: cc58dd95ad6640cf958bc53cbccd76fe
+run_name: unruly-smelt-484
+run_uuid: cc58dd95ad6640cf958bc53cbccd76fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738358765837
+status: 4
+tags: []
+user_id: FKA9

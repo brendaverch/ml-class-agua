@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/FKA9/OneDrive - PETROBRAS/Área de Trabalho/MLP/ml-class-agua/mlruns/557607505012679705/797c8df3087d41ea8e79039411f7e591/artifacts
+end_time: 1738358167824
+entry_point_name: ''
+experiment_id: '557607505012679705'
+lifecycle_stage: active
+run_id: 797c8df3087d41ea8e79039411f7e591
+run_name: efficient-skunk-504
+run_uuid: 797c8df3087d41ea8e79039411f7e591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738358167758
+status: 4
+tags: []
+user_id: FKA9

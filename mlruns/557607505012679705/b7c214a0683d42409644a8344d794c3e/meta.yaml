@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/FKA9/OneDrive - PETROBRAS/Área de Trabalho/MLP/ml-class-agua/mlruns/557607505012679705/b7c214a0683d42409644a8344d794c3e/artifacts
+end_time: 1738359118718
+entry_point_name: ''
+experiment_id: '557607505012679705'
+lifecycle_stage: active
+run_id: b7c214a0683d42409644a8344d794c3e
+run_name: intrigued-stoat-129
+run_uuid: b7c214a0683d42409644a8344d794c3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738359118670
+status: 4
+tags: []
+user_id: FKA9

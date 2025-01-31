@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/FKA9/OneDrive - PETROBRAS/Área de Trabalho/MLP/ml-class-agua/mlruns/557607505012679705/5a9e3f807bcf4f3d99f7cfdb15f105ff/artifacts
+end_time: 1738359525699
+entry_point_name: ''
+experiment_id: '557607505012679705'
+lifecycle_stage: active
+run_id: 5a9e3f807bcf4f3d99f7cfdb15f105ff
+run_name: bright-squirrel-900
+run_uuid: 5a9e3f807bcf4f3d99f7cfdb15f105ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738359525654
+status: 4
+tags: []
+user_id: FKA9

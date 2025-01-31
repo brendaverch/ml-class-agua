@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/FKA9/OneDrive - PETROBRAS/Área de Trabalho/MLP/ml-class-agua/mlruns/557607505012679705/7118598e6cdc45b7aea2f700544d10dd/artifacts
+end_time: 1738359267705
+entry_point_name: ''
+experiment_id: '557607505012679705'
+lifecycle_stage: active
+run_id: 7118598e6cdc45b7aea2f700544d10dd
+run_name: clean-hare-555
+run_uuid: 7118598e6cdc45b7aea2f700544d10dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738359267657
+status: 4
+tags: []
+user_id: FKA9
